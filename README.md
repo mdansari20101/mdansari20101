@@ -73,8 +73,8 @@ class Skills extends SoftwareDeveloper {
 </div>
 <br />
 
-
-<img src="https://activity-graph.herokuapp.com/graph?username=mdansari20101&theme=minimal" alt="activitygraph" /> 
+![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=mdansari20101&hide_border=true&theme=redical)
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=mdansari20101&theme=minimal" alt="activitygraph" /> -->
 <!--
 <br />
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mdansari20101" alt=""/></p>
